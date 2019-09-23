@@ -1,3 +1,7 @@
+This is two forks out from the rubygems version because:
+1) the [original version](https://github.com/kryzhovnik/rails_admin_tag_list) is not Rails 5.2 compatible;
+2) the [fork which fixes this](https://github.com/adiwids/rails_admin_tag_list) specifies dependencies we don't actually want to install (notably, we've replaced the deprecated sassc with sass-rails).
+
 Introduction
 ============
 
